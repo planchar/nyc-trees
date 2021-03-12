@@ -15,9 +15,14 @@ Python exercise in cleaning a dataset about trees in NYC.
 
 |Hour|Description|
 |---|---|
-|9:25|Created the repo|
-|9:35|Added the datafile locally, updated the .gitignore file|
-|9:45|Added minimal information to the README|
+|09:25|Created the repo|
+|09:35|Added the datafile locally, updated the .gitignore file|
+|09:45|Added minimal information to the README|
+|10:00|Setup a Jupyter notebook with basic outline|
+|10:15|Exploring the data documentation to help understand the data|
+|11:00|break|
+|11:15|Exploring the data documentation to help understand the data|
+|11:45|Return to the notebook|
 
 ## Extra notes
 
